@@ -8,3 +8,4 @@ example/vendor/
 builds/
 .phpunit.result.cache
 protoc-gen-php-grpc
+rr-grpc
